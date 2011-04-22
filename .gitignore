@@ -1,0 +1,3 @@
+.build
+Task-BeLike-GENEHACK-*
+!releases/*.tar.gz

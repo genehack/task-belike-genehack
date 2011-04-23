@@ -105,7 +105,7 @@ use 5.010;
 
 =pkg local::lib
 
-=pkg namespace::autospace
+=pkg namespace::autoclean
 
 =cut
 

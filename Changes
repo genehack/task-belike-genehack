@@ -1,3 +1,6 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+
+  Initial release -- test builds of 5.14.0 finally got me to put this
+  together rather than installing everything one-off...

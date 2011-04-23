@@ -7,19 +7,49 @@ use 5.010;
 
 =pkgroup Useful Meta Stuff
 
+=pkg Modern::Perl
+
+=pkg Task::Catalyst
+
 =pkg Task::Kensho
 
-=pkgroup Apps
+=pkg Task::Kensho::CLI
+
+=pkg Task::Kensho::Config
+
+=pkg Task::Kensho::Dates
+
+=pkg Task::Kensho::Hackery
+
+=pkg Task::Kensho::ModuleDev
+
+=pkg Task::Kensho::WebDev
+
+=pkg Task::Kensho::XML
+
+=pkgroup Apps and app frameworks
+
+=pkg App::cpanminus
+
+=pkg App::cpanoutdated
 
 =pkg App::Ack
 
-=pkgroup My stuff
+=pkg App::Cmd
 
-=pkg Dist::Zilla::PluginBundle::GENEHACK
+=pkg Devel::REPL
+
+=pkg MooseX::App::Cmd
+
+=pkgroup Useful stuff
+
+=pkg Try::Tiny
+
+=pkgroup My stuff
 
 =pkg App::MiseEnPlace
 
-=pkg App::GitGot
+=pkg Dist::Zilla::PluginBundle::GENEHACK
 
 =cut
 

@@ -23,6 +23,12 @@ use 5.010;
 
 =pkg App::perlbrew
 
+=pkg Bash::Completion
+
+=pkg Bash::Completion::Plugins::cpanm
+
+=pkg Bash::Completion::Plugins::perlbrew
+
 =pkg CPAN::Mini
 
 =pkg DBD::SQLite

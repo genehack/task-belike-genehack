@@ -23,6 +23,8 @@ use 5.010;
 
 =pkg App::perlbrew
 
+=pkg Audio::M4P::QuickTime
+
 =pkg Bash::Completion
 
 =pkg Bash::Completion::Plugins::cpanm
@@ -46,6 +48,8 @@ use 5.010;
 =pkg Dist::Zilla::PluginBundle::GENEHACK
 
 =pkg File::Slurp
+
+=pkg Imager
 
 =pkg List::MoreUtils
 

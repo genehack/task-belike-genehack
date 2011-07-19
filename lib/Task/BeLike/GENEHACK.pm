@@ -51,6 +51,8 @@ use 5.010;
 
 =pkg Module::Which
 
+=pkg Moose
+
 =pkg MooseX::App::Cmd
 
 =pkg MooseX::Declare
@@ -58,6 +60,8 @@ use 5.010;
 =pkg MooseX::amine
 
 =pkg Perl::Tidy
+
+=pkg Pod::Coverage::TrustPod
 
 =pkg Task::Catalyst
 

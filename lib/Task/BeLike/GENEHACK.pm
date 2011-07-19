@@ -105,6 +105,8 @@ use 5.010;
 
 =pkg Test::Pod::Coverage
 
+=pkg Text::FindIndent
+
 =pkg Try::Tiny
 
 =pkg XML::LibXML

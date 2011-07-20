@@ -69,6 +69,8 @@ use 5.010;
 
 =pkg Perl::Tidy
 
+=pkg Pod::Cpandoc
+
 =pkg Task::Catalyst
 
 =pkg Task::Kensho

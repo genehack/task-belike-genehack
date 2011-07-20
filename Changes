@@ -1,6 +1,7 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+  Add Pod::Cpandoc
 
 0.1.1     2011-04-22 21:26:23 America/New_York
 

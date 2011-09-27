@@ -1,7 +1,12 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
-  Add Pod::Cpandoc
+
+  Add modules:
+
+    * Pod::Cpandoc
+    * Data::Printer
+
 
 0.2       2011-07-19 07:34:54 America/New_York
 

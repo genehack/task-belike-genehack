@@ -37,6 +37,8 @@ use 5.010;
 
 =pkg Data::Dump::Streamer
 
+=pkg Data::Printer
+
 =pkg DateTime
 
 =pkg Devel::Cover

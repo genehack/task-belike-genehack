@@ -45,6 +45,10 @@ use 5.010;
 
 =pkg Devel::REPL
 
+=pkg Devel::REPL::Plugin::DataPrinter
+
+=pkg Devel::REPL::Plugin::Editor
+
 =pkg Dist::Zilla::App::Command::cover
 
 =pkg Dist::Zilla::PluginBundle::GENEHACK
@@ -96,6 +100,8 @@ use 5.010;
 =pkg Task::Kensho::XML
 
 =pkg Task::KiokuDB
+
+=pkg Term::ReadLine::Perl
 
 =pkg Test::Class
 

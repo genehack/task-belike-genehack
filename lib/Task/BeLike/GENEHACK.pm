@@ -1,4 +1,5 @@
 package Task::BeLike::GENEHACK;
+
 # ABSTRACT: individuality via conformity
 
 use strict;

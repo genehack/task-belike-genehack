@@ -2,6 +2,8 @@ Revision history for {{$dist->name}}
 
 {{$NEXT}}
 
+  Minor tweaks
+
 0.2_01    2015-04-11 23:28:14-07:00 America/Los_Angeles
 
   Major rearrangements & dist.ini tweaks

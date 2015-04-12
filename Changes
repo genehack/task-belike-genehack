@@ -2,7 +2,7 @@ Revision history for {{$dist->name}}
 
 {{$NEXT}}
 
-  Major rearrangements
+  Major rearrangements & dist.ini tweaks
 
 0.2       2011-07-19 07:34:54 America/New_York
 

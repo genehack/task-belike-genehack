@@ -7,11 +7,9 @@ use 5.010;
 
 =pkgroup Modules I use
 
-=pkg App::Ack
-
-=pkg App::BashComplete
-
 =pkg App::Cmd
+
+=pkg App::GitGot
 
 =pkg App::MiseEnPlace
 
@@ -21,21 +19,9 @@ use 5.010;
 
 =pkg App::cpanoutdated
 
-=pkg App::perlbrew
+=pkg App::pmuninstall
 
 =pkg Audio::M4P::QuickTime
-
-=pkg Bash::Completion
-
-=pkg Bash::Completion::Plugins::cpanm
-
-=pkg Bash::Completion::Plugins::perlbrew
-
-=pkg CPAN::Mini
-
-=pkg DBD::SQLite
-
-=pkg Data::Dump::Streamer
 
 =pkg Data::Printer
 
@@ -43,23 +29,17 @@ use 5.010;
 
 =pkg Devel::Cover
 
-=pkg Devel::REPL
-
-=pkg Devel::REPL::Plugin::DataPrinter
-
-=pkg Devel::REPL::Plugin::Editor
-
 =pkg Dist::Zilla::App::Command::cover
 
 =pkg Dist::Zilla::PluginBundle::GENEHACK
 
-=pkg File::Slurp
+=pkg Git::Wrapper
+
+=pkg HiD
 
 =pkg Imager
 
 =pkg List::MoreUtils
-
-=pkg Modern::Perl
 
 =pkg Module::CoreList
 
@@ -67,11 +47,11 @@ use 5.010;
 
 =pkg Module::Which
 
+=pkg Moo
+
 =pkg Moose
 
 =pkg MooseX::App::Cmd
-
-=pkg MooseX::Declare
 
 =pkg MooseX::amine
 
@@ -80,26 +60,6 @@ use 5.010;
 =pkg Pod::Coverage::TrustPod
 
 =pkg Pod::Cpandoc
-
-=pkg Task::Catalyst
-
-=pkg Task::Kensho
-
-=pkg Task::Kensho::CLI
-
-=pkg Task::Kensho::Config
-
-=pkg Task::Kensho::Dates
-
-=pkg Task::Kensho::Hackery
-
-=pkg Task::Kensho::ModuleDev
-
-=pkg Task::Kensho::WebDev
-
-=pkg Task::Kensho::XML
-
-=pkg Task::KiokuDB
 
 =pkg Term::ReadLine::Perl
 
@@ -118,12 +78,6 @@ use 5.010;
 =pkg Text::FindIndent
 
 =pkg Try::Tiny
-
-=pkg XML::LibXML
-
-=pkg XML::Simple
-
-=pkg XML::Writer
 
 =pkg YAML
 

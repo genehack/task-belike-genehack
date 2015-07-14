@@ -32,6 +32,8 @@ use 5.010;
 
 =pkg Dist::Zilla::App::Command::cover
 
+=pkg Dist::Zilla::Plugin::MakeMaker::Awesome
+
 =pkg Dist::Zilla::Plugin::OSPrereqs
 
 =pkg Dist::Zilla::PluginBundle::GENEHACK

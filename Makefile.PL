@@ -30,6 +30,7 @@ my %WriteMakefileArgs = (
     "DateTime" => 0,
     "Devel::Cover" => 0,
     "Dist::Zilla::App::Command::cover" => 0,
+    "Dist::Zilla::Plugin::MakeMaker::Awesome" => 0,
     "Dist::Zilla::Plugin::OSPrereqs" => 0,
     "Dist::Zilla::PluginBundle::GENEHACK" => 0,
     "Git::Wrapper" => 0,
@@ -68,7 +69,7 @@ my %WriteMakefileArgs = (
     "IPC::Open3" => 0,
     "Test::More" => 0
   },
-  "VERSION" => "0.301",
+  "VERSION" => "0.302",
   "test" => {
     "TESTS" => "t/*.t"
   }
@@ -88,6 +89,7 @@ my %FallbackPrereqs = (
   "DateTime" => 0,
   "Devel::Cover" => 0,
   "Dist::Zilla::App::Command::cover" => 0,
+  "Dist::Zilla::Plugin::MakeMaker::Awesome" => 0,
   "Dist::Zilla::Plugin::OSPrereqs" => 0,
   "Dist::Zilla::PluginBundle::GENEHACK" => 0,
   "ExtUtils::MakeMaker" => 0,

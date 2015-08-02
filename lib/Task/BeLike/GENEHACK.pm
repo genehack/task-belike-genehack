@@ -68,6 +68,8 @@ use 5.010;
 
 =pkg Pod::Cpandoc
 
+=pkg Reply
+
 =pkg Term::ReadLine::Perl
 
 =pkg Test::Class

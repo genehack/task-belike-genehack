@@ -16,6 +16,8 @@ use 5.010;
 
 =pkg App::Nopaste
 
+=pkg App::Uni
+
 =pkg App::cpanminus
 
 =pkg App::cpanoutdated

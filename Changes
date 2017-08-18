@@ -2,6 +2,10 @@ Revision history for {{$dist->name}}
 
 {{$NEXT}}
 
+  Add App::GitGitr
+  Add HiD::Generator::Sass
+  Add Template::Plugin::Markdown
+
 0.303     2015-08-01 17:56:53-07:00 America/Los_Angeles
 
   Add Reply

@@ -10,6 +10,8 @@ use 5.010;
 
 =pkg App::Cmd
 
+=pkg App::GitGitr
+
 =pkg App::GitGot
 
 =pkg App::MiseEnPlace
@@ -44,6 +46,8 @@ use 5.010;
 
 =pkg HiD
 
+=pkg HiD::Generator::Sass
+
 =pkg Imager
 
 =pkg List::MoreUtils
@@ -69,6 +73,8 @@ use 5.010;
 =pkg Pod::Cpandoc
 
 =pkg Reply
+
+=pkg Template::Plugin::Markdown
 
 =pkg Term::ReadLine::Perl
 
